@@ -1,0 +1,70 @@
+body{
+    background-color: aliceblue;
+    min-height:300vh;
+    scroll-behavior: smooth;
+}
+.bg{
+    background-color: rgb(88, 164, 231);
+    color: rgb(255, 255, 255);
+
+}
+.bgnav{
+    border-top: 5px solid white;
+    padding: 0.4rem;
+}
+.nava{
+    text-decoration: none;
+    font-size:1.3rem;
+    color: aliceblue;
+}
+.foota{
+    text-decoration: none;
+    color: aliceblue;
+}
+.hoveri:hover{
+  
+  border-bottom: 3px solid aliceblue;
+    }
+.phara{
+    font-size :22px;
+}
+.px{
+    padding:1rem;
+}
+.pxtb{
+    padding-top:1rem;
+    padding-bottom: 1rem;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 50%;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  } 
+  .fa-facebook:hover
+  {
+    background:white;
+    color:#3B5998;
+  }
+  .fa-instagram {
+    background: #962fbf;
+    color: white;
+  }
+  .fa-instagram:hover{
+    background: white;
+    color: #962fbf;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-linkedin:hover {
+    background:white;
+    color:  #007bb5;
+  }
